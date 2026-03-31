@@ -1,0 +1,2 @@
+# different-editing-modes-and-templates-in-react-data-grid
+A quick-start project that demonstrates how to enable and use editing features in the Syncfusion React Data Grid component. This project includes simple code examples for enabling editing using the edit toolbar.You will also learn how to add a custom component for cell editing and work with different editing modes,including Normal,Batch and Dialog.
